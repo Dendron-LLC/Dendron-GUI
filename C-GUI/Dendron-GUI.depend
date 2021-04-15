@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1618497154 source:/home/the-shadow/Git-Repos/Dendron-GUI/C-GUI/main.c
+	<gtk/gtk.h>
+
